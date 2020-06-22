@@ -1,4 +1,4 @@
-# bbl
+# BB Lab
 
 The Body Brace Lab is an on-site technology facilitator.
 
